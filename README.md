@@ -81,7 +81,7 @@ Durante o desenvolvimento deste projeto, pratiquei:
 Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/java-calculadora-basica.git
+git clone https://github.com/MatheusLopes11/java-calculadora-basica.git
 ```
 
 Acesse a pasta do projeto:

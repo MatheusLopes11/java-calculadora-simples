@@ -15,9 +15,11 @@ public class Calculadora {
 
         System.out.println("Digite o primeiro número: ");
         double n1 = entrada.nextDouble();
+        System.out.println();
 
         System.out.println("Digite o segundo número:");
         double n2 = entrada.nextDouble();
+        System.out.println();
 
         System.out.println("Escolha o tipo de operação: \n" +
                 "1 - Adição          (+)\n" +
